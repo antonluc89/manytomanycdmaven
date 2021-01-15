@@ -1,0 +1,15 @@
+it\prova\manytomanycdmaven\service\GenereService.class
+it\prova\manytomanycdmaven\dao\cd\CdDAO.class
+it\prova\manytomanycdmaven\dao\genere\GenereDAO.class
+it\prova\manytomanycdmaven\model\Genere.class
+it\prova\manytomanycdmaven\dao\IBaseDAO.class
+it\prova\manytomanycdmaven\service\CdService.class
+it\prova\manytomanycdmaven\dao\MyDaoFactory.class
+it\prova\manytomanycdmaven\model\Cd.class
+it\prova\manytomanycdmaven\service\MyServiceFactory.class
+it\prova\manytomanycdmaven\dao\genere\GenereDAOImpl.class
+it\prova\manytomanycdmaven\test\MyTest.class
+it\prova\manytomanycdmaven\service\GenereServiceImpl.class
+it\prova\manytomanycdmaven\dao\EntityManagerUtil.class
+it\prova\manytomanycdmaven\service\CdServiceImpl.class
+it\prova\manytomanycdmaven\dao\cd\CdDAOImpl.class

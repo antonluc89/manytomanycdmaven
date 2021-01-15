@@ -1,0 +1,15 @@
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\dao\IBaseDAO.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\dao\genere\GenereDAO.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\service\GenereServiceImpl.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\dao\MyDaoFactory.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\model\Cd.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\service\CdService.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\model\Genere.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\service\GenereService.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\service\MyServiceFactory.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\test\MyTest.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\dao\genere\GenereDAOImpl.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\service\CdServiceImpl.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\dao\cd\CdDAOImpl.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\dao\EntityManagerUtil.java
+C:\Users\Antonio\eclipse-workspace\manytomanycdmaven\src\main\java\it\prova\manytomanycdmaven\dao\cd\CdDAO.java
